@@ -156,7 +156,7 @@ const App = () => {
         <Content $state={borderState}>
           {timeLeft === null ? (
             <>
-              <Title>Escape Room App</Title>
+              <Title>Escape Room</Title>
               <Button onClick={handleStart}>Start Timer</Button>
             </>
           ) : (
