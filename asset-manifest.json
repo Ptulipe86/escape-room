@@ -1,0 +1,11 @@
+{
+  "files": {
+    "main.js": "/escape-room/static/js/main.51c3a203.js",
+    "static/media/village_background.jpg": "/escape-room/static/media/village_background.2212f48c3c6047f4aac3.jpg",
+    "index.html": "/escape-room/index.html",
+    "main.51c3a203.js.map": "/escape-room/static/js/main.51c3a203.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.51c3a203.js"
+  ]
+}
