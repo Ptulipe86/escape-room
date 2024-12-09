@@ -2,7 +2,7 @@
   "name": "escape-room",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Ptulipe86.github.io/escape-room-app",
+  "homepage": "https://Ptulipe86.github.io/escape-room",
   "dependencies": {
     "@tsparticles/react": "^3.0.0",
     "@tsparticles/slim": "^3.7.1",
